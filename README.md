@@ -4,19 +4,19 @@
 
 
 ## I am a Developer and designer
-- 🔭 I love to create UI/UX designs
+- 🔭 I enjoy system design and architecture
 - 💻 I am a Software Engineer
-- 🌱 I am certified in DevOp Engineering
+- 🌱 I am certified in DevOps Engineering
 - 👯 I’m looking to collaborate on open source
 - 😄 I am interested in ML and AI
-- ⚡ Fun fact: I speak 3 languages ( English, Kiswahili, Freanch:beginner)
+- ⚡ Fun fact: I speak 3 languages ( English, Kiswahili, French:beginner)
 - 🤓 [Visit my website]
 
 
 ### Talk to me:
 <img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [linkedin]
 <br/><br/>
-<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" /> iankurao@gmail.com
+<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" /> aurainnovations@gmail.com
 
 <br />
 
@@ -41,13 +41,13 @@
 ## Tech Stack & Tools  
 
 ### **Frontend**  
-- **Vue | Angular | React**
+- **HTML | Angular | React**
 
 ### **Backend**  
-- **.NET | Python | Php | Nodejs** 
+- **Python | MongoDb | Express | Nodejs | SQL | Postgres** 
 
 ### **Cloud & DevOps**  
-- **Kubernetes | Docker | Azure Pipelines**  
+- **Kubernetes | Docker | GCP Pipelines**  
 - **Kafka | Dapr**  
 - **CI/CD | SonarQube**  
 ---
