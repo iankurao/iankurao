@@ -7,7 +7,7 @@
 - 🔭 I enjoy system design and architecture
 - 💻 I am a Software Engineer
 - 🌱 I am certified in DevOps Engineering
-- 👯 I’m looking to collaborate on open source
+- 👯 I’m looking to collaborate on cool projects
 - 😄 I am interested in ML and AI
 - ⚡ Fun fact: I speak 3 languages ( English, Kiswahili, French:beginner)
 - 🤓 [Visit my website]
