@@ -41,15 +41,15 @@
 ## Tech Stack & Tools  
 
 ### **Frontend**  
-- **HTML | Angular | React**
+- **HTML | Javascript | Typescript | React**
 
 ### **Backend**  
 - **Python | MongoDb | Express | Nodejs | SQL | Postgres** 
 
 ### **Cloud & DevOps**  
 - **Kubernetes | Docker | GCP Pipelines**  
-- **Kafka | Dapr**  
-- **CI/CD | SonarQube**  
+- **Microservices | ansible**  
+- **CI/CD | AWS**  
 ---
 
 <details>
@@ -68,4 +68,4 @@
 
 [linkedin]: https://www.linkedin.com/in/ian-k-702b9a180/
 [portfolio]: https://github.com/iankurao
-[Visit my website]: https://ian-kurao-portfolio.netlify.app
+[Visit my website]: https://ian-k.netlify.app/
